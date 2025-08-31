@@ -128,7 +128,11 @@ document.addEventListener("DOMContentLoaded", () => {
       fd.append("file", selectedFile);
       fd.append("length", selectedLength);
 
-      const res = await fetch("/api/summaries", { method: "POST", body: fd });
+      const res = await fetch("https://quickgist-api.onrender.com/api/summaries", {
+  method: "POST",
+  body: fd
+});
+
       if (!res.ok) throw new Error((await res.text()) || "Server error");
 
       const json = await res.json();
@@ -155,11 +159,12 @@ document.addEventListener("DOMContentLoaded", () => {
       );
       showLoading();
 
-      const res = await fetch("/api/summaries", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ text, length: selectedLength }),
-      });
+      const res = await fetch("https://quickgist-api.onrender.com/api/summaries", {
+  method: "POST",
+  headers: { "Content-Type": "application/json" },
+  body: JSON.stringify({ text, length: selectedLength }),
+});
+
       if (!res.ok) throw new Error((await res.text()) || "Server error");
 
       const json = await res.json();
