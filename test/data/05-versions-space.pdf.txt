@@ -1,0 +1,896 @@
+
+
+FROM A #1 BEST SELLING AUTHOR
+PEAK PERFORMANCE HABITS
+FOR SOFTWARE DEVELOPERS:
+The 7 Simple Habits I Developed To Become A 7 Figure Developer
+John Z. Sonmez
+
+0
+INTRODUCTION
+When I coach software developers... I generally see the same
+problems over and over again.
+Problems like:
+● Being overstressed because of looming deadlines
+● How they never have free time to spend with family and friends
+● Often stuck in the same job for years without any progress
+● Never having enough energy due to many sleepless nights
+● Not sure how to keep up with new technology
+● Easily overwhelmed so they procrastinate all day
+● And much more...
+90% of the time... these problems happen because developers rely on
+motivation, willpower and feelings way too much.
+Which greatly shapes their mindset and has a huge affect on their
+everyday action.
+(I’ll explain why in just a moment...)
+You see, I was in the same boat...
+One day — I would feel motivated and ready to tackle anything life
+could throw at me.
+But then I’d have days where all I wanted to do was play video games
+for 8 hours straight.
+I thought to myself...
+“How is there such a huge gap? And why does it happen so often?”
+Peak Performance Habits For Software Developers|1
+
+So I started to search for ways to beat it...
+I tried hacks to double my productivity. I tried apps to track my
+progress. I tried all the cool new routines everyone talked about. But
+after trying one tactic after another... I found they only give temporary
+results.
+It never stuck with me.
+And I would fall back into the same old routine. Except now I felt
+worse because nothing was working.
+Well after years of trial and error. After reading countless books and
+studies. And after listening to the best experts on productivity.
+After years of testing literally everything in the market...
+I found it has nothing to do with tractics.
+In fact, it has a lot to do with our mindsets and habits. This was the
+root cause and I was failing to address it.
+But once I cracked the code...
+I FULLY RETIRED BY THE AGE OF 33
+I had more money than any of my peers around me..
+I didn’t have to work for anyone unless I wanted to.
+I ditched the golden handcuffs and won my time back.
+And now — I can do what I want, when I want.
+Peak Performance Habits For Software Developers|2
+
+Freedom — more important than all the money I made...
+Which brings this to you... but before we start I’d like to say...
+Thank you for reading this document.
+This could be the most important thing you read as a software
+developer.
+Why?
+Because it will allow you to improve your life — in ways you probably
+never even thought of...
+I’M GOING TO SHARE... HOW I BECAME A 7 FIGURE
+DEVELOPER IN LESS THAN 5 YEARS
+All with the power of habits and mindset...
+I know it might sound crazy now but keep reading...
+And believe me... this won't be the typical:
+Peak Performance Habits For Software Developers|3
+
+“How to get a job at a FAANG company”
+Or
+“How to pass your coding interview” lessons.
+There’s a lot of resources out there already.
+Though with these habits and mindset shifts... you’ll be able to
+accomplish those tasks easily.
+For now... this quick document will focus on how you can get way
+MORE from life as a software developer.
+Way more happiness from your work. And not have it feel like a drain
+on your existence.
+Way more time to enjoy yourself. And not have work be the only thing
+in your life.
+Way more freedom to pursue your purpose in life. And not have to
+fear — whether you’ll make it or not.
+All you need to do is copy these 7 simple proven habits I’ve developed
+and perfected over the years.
+So let’s get right into it...
+1
+TURN SYSTEMS INTO HABITS
+You know what’s funny?
+Developers often work on complex systems. They can take ideas and
+turn them into software...
+But when it comes to their own lives and habits...
+Peak Performance Habits For Software Developers|4
+
+All common sense goes out the window.
+It’s like watching your best friend date the worst possible partner. But
+he doesn’t realize it.
+You see, what most people do is marry themselves to goals...
+And not even SMART goals... specific, measurable, achievable,
+realistic, and time bound...
+BUT LET’S BE REAL HONEST HERE... MOST
+PEOPLE SET PRETTY BAD GOALS
+Here’s some I hear often:
+● I want to make 1 million dollars
+● I want to buy a property
+● I want to lose weight
+● I want a girlfriend
+● I want to work at Google, Facebook, Apple etc.
+● I want passive income
+● And many more...
+This is great and all — but here’s where I have to be a little harsh...
+These goals don't matter...
+These are aspirations.
+It would be great to have all those things above wouldn't it?
+Of course it would.
+But what's the plan? You have no idea where to start or what action to
+take. You have no idea how long you should take. And it doesn't feel
+achievable.
+Which brings me over to my next point...
+Peak Performance Habits For Software Developers|5
+
+YOU HAVE ZERO CONTROL OVER THESE
+OUTCOMES
+Sure, it would be great to make a million dollars by 33. But
+realistically... you have no control over this outcome.
+There’s so many factors at play...
+Like how the market changes and all of a sudden you can’t make any
+sales. Or how natural disasters can turn everything on its head. Or
+maybe Facebook decides to ban you from their platform for no reason.
+There will always be factors out of your control.
+And look I’m not saying it isn't possible. If a geek like me can do it. I
+know others like you can.
+But you must approach your dreams the right way.
+Which goes well with my next point...
+YOUR GOALS WILL CHANGE
+Your feelings WILL change.
+And your motivations WILL change...
+I'm sure a lot of young developers dream of traveling the world —
+while working on their laptop on some foregin beach — then go crazy
+and party at night with the locals.
+Is this something you want to be doing forever?
+For some it will be... for others — priorities change...
+All of a sudden waking up to a hangover — while you have a deadline
+at noon — isn’t so appealing anymore.
+Peak Performance Habits For Software Developers|6
+
+And maybe cleaning urine off your ceiling isn’t the best use of your
+time or skills.
+So to reiterate...
+Your goals can change at a moment's notice. Your motivation can take
+a nosedive for almost any reason.
+You can feel like not working anymore... you can get discouraged for
+not reaching your goal fast enough.
+Then what? You quit? Burn out?
+Move onto the next shiny object?
+Instead, I want you to do this...
+CREATE SYSTEMS TO MOVE YOURSELF
+FORWARD...
+Systems are stronger than goals because they create habits. Habits
+last longer. And habits happen automatically.
+I plan out my week and use systems/methods like the Pomodoro method
+Peak Performance Habits For Software Developers|7
+
+For example... Let's say you want to write a book (like I did many
+times).
+Here’s how the process might look:
+● Step 1: Wake up 1 hour earlier than normal
+● Step 2: Turn on your Pomodoro timer
+● Step 3: Write chapter 1 outline
+● Step 4: Write chapter 1 without editing
+● Step 5: Edit chapter 1 for mistakes
+Then repeat this process for chapter 2 and so on...
+It’s a lot less intimidating when you only have to write one chapter a
+day. And much easier to follow a basic system like this...
+...Then to stress and worry about a whole book.
+Now apply/create systems to other aspects of your life.
+Create the habit of well... creating habits (systems) and your output
+will explode.
+Take Action:
+● Create a system for one of your goals
+● Remember: Aspiration -> Goal -> Process -> System
+● Example of a system: Create 1 YouTube video a week.
+Step 1: Write outline for video
+Step 2: Turn on Camera and audio recorder
+Step 3: Create content and hit every note on outline
+Step 4: Sync audio with video
+Step 5: Edit and cut out useless footage
+Step 6: Edit in effects and enhancements
+Step 7: Upload video to YouTube
+Step 8: Write descriptions and proper tags
+Step 9: Publish the damn thing
+Peak Performance Habits For Software Developers|8
+
+2
+TRUST THE PROCESS
+Do you second guess yourself all the time?
+Want to know why it’s so hard to get results?
+Eager to get long term results quicker?
+Well, stick around for this one...
+You see, most developers just go about their day randomly...
+They’ll code for 30 minutes... then check Facebook for 40 minutes.
+They’ll answer an email... then check the latest news.
+And then send funny memes on slack. Then complain to their friends
+about the project managers (the ones with CS degrees and never
+have written a line of code)...
+It’s no wonder so many developers work late.
+The whole day is one distraction after another. There’s no real process
+to it.
+So at the end of the day, you’re frustrated and stressed — trying to
+squeeze in all your high priority duties.
+Which leaves you and wondering...
+“Am I as good as I say I am? And why can’t I deliver results faster?”
+Sounds familiar..?
+Peak Performance Habits For Software Developers|9
+
+WELL IF YOU WANT LONG TERM SUCCESS... AND
+WANT REAL RESULTS
+You have to change up your work habits... You have to trust the
+process FRIST.
+You see, most people have this backwards...
+They focus on the results FIRST.
+But this is a waste of time...
+For example, many developers complain about how...
+● They aren't getting enough views on their YouTube channel.
+● No one is reading their blog posts
+● Not losing enough weight
+● Not making enough money at their job
+But just like their work life... they just go about it randomly.
+So typically, they get discouraged and just quit. With no real results to
+show. Nothing changes. And their life remains the same.
+Well, except... when they move onto the next shiny object and repeat
+this process all over again.
+Which brings me to my next point...
+YOU DON'T HAVE CONTROL OVER THE RESULTS.
+ONLY THE PROCESS
+It’s like playing a MMORPG (massively multiplayer online role playing
+game)...
+Let’s say you want to reach the max level for your character. Which is
+level 100 in this case...
+Peak Performance Habits For Software Developers|10
+
+All you have to do is follow the process until you reach the end goal. It
+makes sense to play one character until it reaches max level.
+Makes sense right?
+But here’s what most developers do...
+They play one character until level 20.
+Then they complain it’s taking way too long. So they create another
+character and raise it to level 30.
+Then try another character to level 25.
+(Replace character with skills)
+Until they have 5 different characters all at different levels...
+But none of the characters are at the max level of 100.
+Not very efficient is it?
+But I get it... starting a new character and learning new skills is fun
+and exciting.
+Everything is new. You’re making exponential gains in skill. And
+progress seems to come faster.
+But it’s all an illusion.
+Because if you just trust the process and get one character to reach
+the endgame....
+You can have fun doing the BEST content. The endgame raids and
+most lucrative dungeons.
+Get the coolest gear and show off to your guildmates.
+(Because no one cares if you have a bunch of low level characters...
+but people WILL listen when you have legendary gear)
+Peak Performance Habits For Software Developers|11
+
+Alright, enough of my game examples...
+SO HOW DO YOU DEVELOP THE HABIT OF
+TRUSTING THE PROCESS?
+First, you have to figure out what you want to accomplish — and
+create a process around it.
+For example:
+Do you want 100K people to read your blog every month? Well, looks
+like you need to write 1 blog post a week (at least).
+Do you want to lose 15 pounds to impress your mom? Better come up
+with a diet and workout routine (process).
+Do you want to make 10K a month from freelance clients? You better
+have a good prospecting process.
+Next, you MUST train yourself and believe the results don’t matter.
+This will be the toughest part to get over... but it will make such a
+huge difference in your career/life.
+Trust me when I tell you... it frees you. You become less stressed.
+And you’ll be much happier overall as a person...
+RESULTS DON’T MATTER BECAUSE WHAT REALLY
+MATTERS — IS WHO YOU BECOME IN THE
+PROCESS
+Look I’m going to be real with you here...
+I didn't feel fulfilled once I made 1 million dollars.
+Honestly it felt like any other Tuesday.
+Peak Performance Habits For Software Developers|12
+
+I didn’t all of a sudden become confident — because I achieved 6
+pack abs.
+Sure, it was nice to look at for a while. But then it was back to
+business again.
+And I wasn't “a big shot” because I landed an interview at Microsoft.
+Nope, felt the same on the inside.
+But when I look at my journey and see what I became... when I look in
+the mirror and see how much I’ve changed.
+When I think about all the people I've helped throughout my career. All
+the lives I’ve changed and things I was able to experience.
+Before and after transformation. Just like our bodies... we must train our minds.
+Trust the process.
+I’m proud and grateful.
+This is a feeling you can't put a price on.
+So divorce yourself from the results and trust the process.
+Peak Performance Habits For Software Developers|13
+
+Take Action:
+● Figure out what your goal is
+● Create a process and have it lead to your goal
+● Follow this process for a set amount of time
+● Evaluate the results and see where you can improve it
+● Continue to iterate the process
+● Execute and trust the process
+3
+HOW YOU LIVE ONE DAY IS HOW
+YOU LIVE EVERYDAY
+Do you know you can't stick to one thing for a long time?
+And do you know why you procrastinate way too much?
+Well, it has to do with how you live your everyday life...
+Now, I’m not trying to make you feel bad. I was in the same boat as
+most people...
+Sure, I got some tasks done. But I knew deep down I could do way
+more. That I should be making more money. And have more time to
+myself.
+I knew all of this... but I still slacked off and waited until the last
+minute.
+And I would do everything in my power to NOT work.
+But then I started to notice something bad... my work habits
+transferred to other areas of my life.
+Peak Performance Habits For Software Developers|14
+
+My health was pretty bad because I ate garbage all the time. And I
+never felt like working out.
+I didn’t have any real friends — mostly acquaintances from work. I
+didn’t want to put in the effort to date or meet people.
+After work, I would just play games and do nothing...
+And this led to a very mediocre life...
+I WAS MERELY EXISTING
+Until I discovered what was wrong with me...
+You see, how you do one thing is how you do EVERYthing in your life.
+In simpler terms... if you’re sloppy and lazy at work. It’s going to
+transfer to EVERY area of your life.
+Your relationships, health, career, hobbies, etc.
+Think of it this way...
+Let’s say you’re on a diet and want to lose 5 - 10 pounds.
+Well, you see a nice bag of Doritos lying around on the counter.
+You tell yourself:
+“Ah it won't hurt to eat this whole bag... it’s just this one time.”
+Unfortunately, it’s not just one time...
+IF YOU MAKE THE CHOICE NOW — IT’S LIKELY TO
+HAPPEN AGAIN
+It will repeat itself in the future...
+Peak Performance Habits For Software Developers|15
+
+And of course this applies to more than your diet.
+If you physically get angry because your code won’t compile... It’s
+going to happen again.
+If you get emotionally unstable — because your computer crashed for
+the 4th time today?
+It will happen again.
+You get the point... and to summarize.
+What does your ideal day look like? What actions can you take NOW — to make
+everyday your ideal day?
+The more you do something... the easier it becomes to make the
+same decision over and over again.
+In fact, you’re reinforcing the pathways in your brain to respond and
+act in this way...
+THIS IS HOW WE DEVELOP GOOD AND BAD HABITS
+So here’s what to do to change your bad habits...
+First, I want you to reframe your mind and think differently...
+Peak Performance Habits For Software Developers|16
+
+Every choice you make — either continues an old pattern or starts a
+new one.
+Next, I want you to think about how this pattern will affect you in the
+long term.
+The cumulative result of this action...
+For example: Like how you brush your teeth everyday.
+(At least I hope you brush your teeth regularly...)
+You brush your teeth so you won't be sucking meat smoothies through
+a straw — when you're 50 years old.
+And finally... I want you to create rules for what you DON’T want to
+happen...
+Don’t want to drop dead from a heart attack at 45?
+Make a rule saying you won’t eat any fast food on the way home from
+work.
+Don't want women to reject you because you’re toothless?
+Make a rule to brush your teeth twice a day.
+Don’t want to waste your potential and the best years of your life?
+Create a rule saying you only get to play games — when you finish 8
+Pomodoros.
+Peak Performance Habits For Software Developers|17
+
+Your actions echo forward through time. It’s all about cumulative gains.
+And remember... you don’t have to start off perfect. You’ll make
+mistakes and it’s OK.
+When you fall off the wagon — keep going and don’t quit.
+Because if you start to make the right choices over and over again...
+you’ll start to gain momentum. And all the good habits will start to
+stick.
+Build them up over time — and commit to them everyday.
+This is the secret to long term success in ALL areas of your life.
+Take Action:
+● Assume you will be weaker tomorrow
+● Create an ideal day (what does your best day look like)
+● Follow your ideal day model as best you can
+● Learn to delay gratification (do it later instead of quitting)
+● Example: Say you’ll eat pizza later — after you’re done with
+your workout
+Peak Performance Habits For Software Developers|18
+
+4
+YOU WIN OR YOU LEARN
+Are you scared of being wrong?
+Does failure scare you?
+Don’t worry, you’re not alone...
+In fact, there’s a big stigma in our culture around failure.
+A lot of people (and especially developers) can't stand being wrong.
+They can’t stand any hint of failure. They will go out of their way to
+avoid it...
+Like some guy dressed in an animal fursuit at a convention. You kind
+of hope it goes away and no one notices.
+And once again I’m not calling you out or anything...
+(Dress up however you want)
+I call things how I see it. And I’m not going to give you some BS
+answer to make you feel better.
+I’m here to give you real solutions.
+Anyways, back to dealing with failure... I’m going to give you 2
+reasons why we actually fail in a moment.
+But first, realize this way of thinking causes developers to never grow
+— and remain stuck for decades.
+But here’s the truth...
+Peak Performance Habits For Software Developers|19
+
+THERE’S NO WAY AROUND FAILURE
+It will happen to you.
+It happens to me all the time.
+And It happens to every successful person known to mankind.
+But guess what... it’s OK
+So drill this into your brain... Everyone fails.
+You don’t know — what you don't know after all.
+(In fact, you HAD to fail — to bring it up in your awareness)
+And the reason why everyone gets so bent out of shape — is because
+of expectations.
+(I’ll go deeper into expectations later)
+So instead of punching your monitor because you messed up a
+project. Or because you said something stupid during a meeting...
+I challenge you to think of failure in this way instead...
+You either learn or you win...
+Let’s say you have to fight a very
+challenging boss in a video game.
+Think about the hardest boss you ever
+faced.(Like a boss from Dark Souls or M.
+Bison from Street Fighter)
+If you win... you get what you want.
+You beat the boss... level up and reap the rewards.
+This is the easy part — since Everyone likes to win.
+Peak Performance Habits For Software Developers|20
+
+But let’s say this boss beats you down.
+So what do you do about it?
+Do you cry and complain? Do you say it ain’t fair and whine? Do you
+go back home and become a family man?
+No, you fight him again.
+And everytime you lose, you get closer to beating him. You’re learning
+his moves. You learn more about the timing of his attacks.
+You start to figure out his patterns.
+And your fingers react faster and faster each time.
+Every death gets you closer and closer... you’re learning more and
+more.
+Until you beat it... this is how success really works...
+IT’S RARE YOU GET THINGS PERFECT THE VERY
+FIRST TIME
+But let’s say you fight the boss over and over again...
+...But you DON”T learn anything new.
+You’ve wasted your time and got frustrated for no reason.
+This is when you’ve truly failed.
+So when you run into a roadblock at work. Or maybe your gym gains
+aren’t where you want it to be...
+Or nothing seems to be going right for you...don’t worry about it.
+Trust the process...
+Peak Performance Habits For Software Developers|21
+
+AND REALIZE THERE'S ONLY TWO MAIN REASONS
+WHY YOU “FAILED”
+Reason #1: It’s a lack of knowledge... you don't know what you don't
+know.
+How can you succeed if you have
+no idea how to do it?
+In this case it’s your job to find out
+how. To gain more knowledge
+about the challenge.
+And reason #2 is a lack of
+discipline...
+In this case you know exactly what to do... but for some reason you’re
+just not doing it.
+Could be you’re lazy, afraid, tired, blocked etc.
+Find the reason why you can’t act on your knowledge. And get the
+block out of the way.
+Remember —  you can only win or learn...
+Take Action:
+● It’s OK to fail —  don’t beat yourself up over mistakes
+● Think of failure as a way to learn or get more data
+● Understand failure is necessary and unavoidable
+● Don't be afraid to fail often... it can lead to new discoveries
+● Remember only two reasons for “failure” : A lack of
+knowledge or a lack of discipline.
+Peak Performance Habits For Software Developers|22
+
+5
+TACTICAL BLUEPRINT TO
+DOUBLE YOUR PRODUCTIVITY
+In a 4 year time span — I became a millionaire...
+And this was from the ages of 29 to 33.
+Almost hard to believe right?
+Well, this is when I started the Simple Programmer blog. I also created
+courses, developper books, the Simple Programmer channel and at
+the same time I ramped up my real estate investments.
+Now when I think about it... it’s weird how fast it happened.
+I owe it all to one simple thing really...
+I became more productive during those years. And I followed a
+process.
+I kept banging on the drum until I got what I wanted.
+It’s funny, when you stop being lazy... The amount you can
+accomplish in 1 year is amazing.
+And we often underestimate what we can accomplish in 1 - 4 years.
+In this section I want to share with you my exact process so you can
+double your productivity.
+Just copy this blueprint and you’ll be amazed at how much you can
+get done.
+Peak Performance Habits For Software Developers|23
+
+Part 1: Create the plan
+My basic flow goes like this...
+It’s easier to get more done when you have everything planned out like above
+1. I plan my whole week out with Kanbanflow (You can use Excel
+or any type of data sheet)
+2. Make each column a day of the week (Example: Column 1 is
+Monday, column 2 is Tuesday etc)
+Today:MondayTuesday
+Record 1 Video (2 PD)
+Write 1 Blog Post (2 PD)
+3. Then I break down each task into how many Pomodoros they
+will take (Example: Reply to emails will take 1 Pomodoro)
+Quick break: What is the Pomodoro method?
+Pomodoro is a time management method (system). You focus on
+one task in 25 minutes blocks — then take a quick 5 minute break.
+After 2 Pomodoros blocks (50 minutes). You can take a longer 10
+Peak Performance Habits For Software Developers|24
+
+minute break .
+You repeat this process until you finish all your tasks. Or until you
+reach about 8 - 12 Pomodoros in a day. I find this is the amount
+most people can do before you hit diminishing returns.
+You keep track of these blocks using a stopwatch or timer. You can
+search the web for sites like Tomato Timer or use your own.
+4. I fill each day with 8 - 12 Pomodoros worth of tasks
+5. I execute each task on those days
+I also move tasks around as I see fit. Sometimes I’ll finish tasks
+quicker. And sometimes tasks take a bit longer than I planned.
+It doesn't have to be rigid and perfect.
+The point is to have a plan for the week.
+Now let’s move onto the next part...
+Part 2: Set rules for how you work
+I’ve created a few rules so I stay on track and don’t get distracted...
+1. When I wake up, I don't touch my phone’s apps. I don't scroll
+through social media. I don’t check emails. I don't answer
+messages
+I get up and execute my morning routine. People can wait, the world
+isn't going to end if I don't answer slack for 30 minutes.
+2. I don't get to play games, watch TV, or socialize until I finish 8 -
+12 Pomodoros for the day
+This can also apply if you’re in a 9 to 5 position. Just set your work
+tasks up with the Pomodoro method. And same if you have your own
+business.
+Peak Performance Habits For Software Developers|25
+
+You see, if you break tasks down into Pomodoros (Pomodori) a couple
+things will happen...
+Instead of taking all day to do tasks... you’ll finish them much faster.
+The timer adds an element of urgency.
+Which is Parkinson's Law. Simply put, we tend to finish tasks by how
+much time we allot to it.
+Want to finish your task so you can go drinking with the boys in 30
+minutes?
+It will happen.
+But if you have all day to do it... you’ll take the whole day to finish the
+task...
+It’s like summer homework. Everyone always does them the week
+before summer vacation ends.
+And the next reason why this works so well — is because you’ll figure
+out how long tasks should take to finish.
+Oh I have to write a QA report?
+It should only take me 2 Pomodoros. I can squeeze this in before the
+next meeting.
+It only takes me 2 Pomodoros to do a full workout? Yes, I can fit this in
+during lunch break.
+It only takes me 2 Pomodoros to write a blog post? I can do this
+before dinner.
+See how tasks become much easier and faster to manage this way.
+Simple right?
+Now do it.
+Peak Performance Habits For Software Developers|26
+
+Take Action:
+● Use Kanbanflow/Excel and plan out your week
+● Break down tasks into Pomodoros
+● Try an information diet (delay until you’ve done all tasks).
+● Put your focus fully into Pomodoros sessions
+● Put your phone in another room. Close all your excess tabs.
+Lock your door. Ignore slack until you're done
+● Fight the urge to watch videos or check the news — it will be
+there after you’re done
+6
+DO LESS TO MAXIMIZE YOUR
+PRODUCTIVITY
+Your greatest enemy will always be...
+Yourself.
+It’s not going to be forces we can’t control. Like the weather or the
+market
+It’s not going to be your parents or your teachers.
+And it’s not going to be some mystic entity — keeping you back.
+It’s always going to be you.
+And half the time we won’t even be conscious of it...
+You see, we all make bad judgement calls.
+You do it. Your parents do it. Your favorite celebrity does it.
+Peak Performance Habits For Software Developers|27
+
+And of course — I even do it.
+I’ve been in the same situation... I know how it feels.
+After a long day of coding and meetings... you’re just too tired to drag
+yourself to the gym.
+And you’re too tired to make a full meal for yourself. Or work on your
+own business. Or study extra chapters and get ahead.
+All you really want to do is relax and enjoy a movie. Order a pizza and
+down a gallon of sugar water (soda).
+Then watch YouTube until you eventually fall asleep in your comfy
+bed.
+I get it, it’s easier and faster.
+But unfortunately this is what most people default to. This is how most
+people get stuck. And wake up one day wondering...
+“HOW DID IT GET THIS BAD? IT WASN’T SUPPOSED
+TO GO THIS WAY... I HAD BIG DREAMS I WANTED
+TO ACCOMPLISH. WHERE DID I GO WRONG?”
+You see, most of the time —  we have good intentions. And we try to
+do the right thing.
+But at the end of the day — you can’t 100% trust yourself.
+And what I mean is... you can’t trust your motivations, feelings or rely
+on willpower.
+These things change way too often... and this is why we second
+guess ourselves.
+I’m willing to bet you have days where you wake up and you’re ready
+to take on the world...
+Peak Performance Habits For Software Developers|28
+
+You crush task after task and feel proud you did a lot. If everyday is
+like this one — you’ll become successful in no time at all.
+You’ve never been so productive in your life...
+But then you’ll have days where it’s a complete 180.
+Where you’ll hit snooze over and over again — and it’s a drag to even
+leave your bed. It drains you to even think about work for the day. And
+you feel like doing nothing.
+(Which makes you feel bad and guilty — and you enter a downward
+spiral)
+Your productivity drops and you’re back to square one all over again.
+So like I said above... emotions, feelings and motivations WILL
+change on a whim.
+You can’t trust them.
+So how do you keep your productivity high?
+You create less and less judgement calls. And In other words... make
+less decisions...
+YOU CAN’T MAKE BAD JUDGEMENT CALLS — IF
+YOU DON'T HAVE TO MAKE JUDGEMENTS
+(Big brain thinking right here)
+And here’s how to do it with what I call my two hats method...
+Part 1: The first hat is the Manager Hat.
+You put on this hat at the start of your week (or end of the week). And
+you plan out the whole week.
+Peak Performance Habits For Software Developers|29
+
+You pre-make decisions before you have
+to make them.
+(I recommend you use the Kanbanflow
+and pomodoro method to plan your
+weeks)
+At the end of the week — you evaluate the
+results and make adjustments.
+You’ll start to get a feel of what is possible and what isn’t. And over
+time you’ll start to optimize your weeks for max efficiency.
+Do this every week and you’ll never have to wonder...
+“What should I do today?”
+Think of it like a RTS (real time strategy) game.
+Your objective is to destroy the enemy base with your own units.
+So what's your plan of attack?
+OK, Monday I need to gather resources for my base.
+Tuesday, I’ll create some offensive units.
+Wednesday, I’ll upgrade my units with cool armor.
+Thursday, I’ll create some ships to transport them.
+Friday, I’ll send them over to attack.
+So here’s your plan of attack. You know what to do now.
+You’re not going to distract yourself with other tasks...
+You’re not going to create a big wall and hide behind it. You’re not
+going to try and do a cheese rush tactic.
+Peak Performance Habits For Software Developers|30
+
+You’re going to follow the plan and
+this leads into my next hat...
+Part 2: The second hat is the
+Worker Hat.
+This one is pretty straightforward...
+When you put on the worker hat — all
+you do is execute the plan.
+You don't complain about it.
+You don't try to change it.
+You do the work until the week is over.
+And yes, sometimes the plan will suck. Especially when you don't
+know how long things should take.
+But stick with it and trust the process.
+So after the week is finished... you put on your manager hat again —
+and repeat this process.
+This is how you’ll finish task after task — and get to where you want to
+go faster.
+And this is exactly how I get more done than the average developer...
+Now it’s your turn.
+Take Action:
+● Remember, your worst enemy is yourself
+● Put on your Manager Hat and plan out your week
+● Put on your Worker Hat and execute the plan
+● Modify the plan and apply this habit to more areas of your life
+● Add more tasks when you’re comfortable
+Peak Performance Habits For Software Developers|31
+
+7
+LET GO OF ALL EXPECTATIONS
+This is a big one for software developers and most people in general.
+And this could be the most important section you ever read.
+I’m not exaggerating... this goes beyond tactics or principles.
+This is something to live by and will greatly improve your
+productivity/life.
+You see, as developers we often hang our happiness and well being
+on things we have no control over.
+For example... I know people who get sad — when it’s not sunny
+outside.
+Or they get seriously pissed off — because their manager did
+soemthing really stupid.
+Or they are physically angry — because someone on their team can’t
+solve a basic problem.
+And these things drastically affect their productivity.
+But do you know what’s helped me achieve peace of mind?
+And helped me do more/better work
+consistently?
+I let it all go... I have no
+expectations.
+Peak Performance Habits For Software Developers|32
+
+Now let me address why this is important... And before you start
+saying...
+“Oh no, here’s the woo-woo part of John coming out. What’s next...
+numbers are energy and all you have to do is wish for more money?”
+Funny, but there’s no weird woo-woo nonsense to what I’m about to
+share with you...
+You see, expectations cause you to suffer and pushes you away from
+accepting reality as it is.
+You’re hanging on to ideals and notions of how things “should be.”
+Which doesn’t work at all...
+YOU DON'T WANT YOUR LIFE TO BE SUBJECT TO
+THINGS YOU CAN’T CONTROL
+Well, unless you enjoy chaos and a rollercoaster of bad emotions...
+For example... Let's say you expect your project manager to be
+competent and know exactly what he’s doing.
+Well, If you’ve ever worked under anyone... you know this is never the
+case.
+But guess what... Your boss is human.
+He/she makes mistakes. And you never know what’s going on in their
+lives.
+Maybe their dog died the other day.
+Maybe their kids hate themt.
+Perhaps they got into the position by accident.
+Or maybe they're close friends with the CEO.
+Peak Performance Habits For Software Developers|33
+
+You never know...
+So there’s no point trying to change your boss. There’s no point
+expecting anything from them.
+There’s no point arguing or trying to fight them on every detail.
+They’re not going to change much.
+Everything is the way it is.
+So instead of focusing on how bad your boss is... suck it up and get
+your resume ready.
+Or get as much experience as you can — so you can move on.
+If it’s in your control... act on it.
+If it’s not in your control... let it go....
+EXPECTATIONS ALSO CAUSE RESENTMENT
+And can block genuine feelings...
+For example... when you expect someone to do a task for you. And
+you know they don’t want to do it.
+Well, it’s going to cause a lot of tension for the both of you.
+The person isn’t going to perform at their very best. And why would
+they?
+If they don’t want to do it... they’re just going to do the bare minimum.
+And you won't get the results you need.
+So you’ll be bitter and angry at them.
+You’ll start to think why didn’t they do it this way. Why did they have to
+screw it up like this...
+Peak Performance Habits For Software Developers|34
+
+This is what happens when someone doesn't meet your expectations.
+Now let’s reverse this scenario...
+Think of a time where you were in charge of a project. The boss says
+you can handle this challenge however you like...
+He’s not expecting anything — but wants to see what you’re made of.
+Weren’t you excited?
+You’d think of many ways to tackle the challenge. You were
+enthusiastic and didn’t complain.
+You’d think about it constantly. Even before you go to bed. So
+naturally — you knock this project out of the ballpark.
+And this is because there’s no expectation or obligation.
+So let it all go...
+I know this is way easier said than done...
+SO HERE’S MY 7 QUICK STEPS ON HOW LET GO OF
+ALL EXPECTATIONS.
+1. I want you to think about what IS in your control. And this
+includes your thoughts and your actions
+2. Figure out what expectation is creating negative emotions
+3. Ask yourself... is this expectation reasonable?
+4. Accept ALL outcomes. Even the “bad” ones
+5. Realize having people do what THEY want is genuinely better
+than doing what YOU want
+Peak Performance Habits For Software Developers|35
+
+6. Replace your expectations with standards. If they don't meet
+your standards — you can move on.
+7. Remember people are like NPCs (non player characters in a
+video game). They all have their own scripts and programs to
+execute.
+And there you have it...
+A brief explanation of how to let go of all expectations.
+Seriously... this will take some time.
+But once you get to my level... where you have no expectations.
+It’s like a whole different life.
+The more you let go... the more your life will change.
+People will flock to you and WANT to work for you.
+You’ll stand out in a world where everyone is bitter and cynical.
+You’ll be in full control over your emotions. No more outbursts and bad
+reactions.
+Peak Performance Habits For Software Developers|36
+
+And you’ll get more done with less stress.
+It’s a weird superpower to have.
+But it’s worth it.
+Take Action:
+● When you feel angry or sad about an expectation. Stop for a
+moment and trace where it comes from
+● Let go of that expectation with the 7 steps above
+● Get into the habit of letting more expectations go
+● Practice gratitude for what you already have
+8
+WAIT... BEFORE YOU GO
+If you made it this far... you’re on the right path.
+When you execute and do what’s written above. You’ll be leagues
+ahead of everyone else.
+But to be honest with you... this is just the beginning.
+I’m sure you have more questions and need help in other areas of
+your life...
+If a resource like this could solve all your problems in one go... I’d be
+out of business tomorrow.
+But you’re in luck... over the next few weeks. I’ll be sending you more
+resources to help you accelerate your career.
+Peak Performance Habits For Software Developers|37
+
+Most of these tips, hacks, advice and strategies will come from my
+email. So make sure you check your inbox for my emails.
+But if you want to speed up the process and get ahead...
+And as thanks for downloading this... I want to give you a special
+discount on one of my best products.
+I want to offer you a one time discount to:
+MY 7 FIGURE SOFTWARE
+DEVELOPERS PLAYBOOK:
+How To Market Yourself To Get The Best Jobs,
+Salary and Opportunities
+Just Use Code“PEAK20”for 20% off.
+(If this code still works — then this limited offer is still active but it
+won't be forever)
+(Click on the image above to apply the coupon automatically)
+20% off with Code: “PEAK20”
+Peak Performance Habits For Software Developers|38
+
+Simple Programmer LLC
+500 Westover Dr. #12344 sanford NC, 27330
+Copyright © 2021 by John Z. Sonmez
+Peak Performance Habits For Software Developers|39

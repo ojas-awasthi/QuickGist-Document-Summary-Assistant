@@ -1,0 +1,516 @@
+/* ===============================
+   Color Palette (Old Photograph)
+================================ */
+:root {
+  --color-bg: #f5f1e1;       /* Warm faded paper */
+  --color-surface: #e0dbc7;  /* Soft beige for cards */
+  --color-border: #a89f91;   /* Muted brown-grey */
+  --color-accent: #5c4b3a;   /* Sepia brown for buttons */
+  --color-text: #2b2a28;     /* Deep charcoal text */
+  --color-hover: #7a6853;    /* Warmer hover */
+}
+
+/* ===============================
+   Remove borders & add subtle shadows
+================================ */
+
+/* Remove all borders by default */
+* {
+  border: none !important;
+}
+
+/* Keep button borders */
+button.primary,
+.length-btn,
+.icon-btn {
+  border: 2px solid var(--color-accent);
+}
+
+/* Minimal box shadows for boxes and textarea */
+textarea,
+.box,
+.big-box,
+.uploader {
+  box-shadow: 0 6px 10px rgba(92, 75, 58, 0.15);
+}
+
+/* Slightly stronger shadow on hover */
+textarea:hover,
+.box:hover,
+.big-box:hover,
+.uploader:hover {
+  box-shadow: 0 10px 15px rgba(92, 75, 58, 0.2);
+}
+
+/* Keep focus styling for textarea */
+#textInput:focus {
+  background: rgb(255, 250, 210);
+  color: #333;
+  outline: none;
+  box-shadow: 0 0 6px rgba(92, 75, 58, 0.25);
+  border-color: var(--color-accent);
+}
+
+/* ===============================
+   Reset & Base
+================================ */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  background: var(--color-bg);
+  color: var(--color-text);
+  padding: 24px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.container {
+  max-width: 920px;
+  margin: 0 auto;
+}
+
+/* ===============================
+   Header
+================================ */
+.header {
+  margin-bottom: 20px;
+}
+
+.header h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 28px;
+  color: var(--color-accent);
+  margin-bottom: 6px;
+}
+
+.subtitle {
+  color: var(--color-border);
+  font-size: 0.95rem;
+}
+
+/* ===============================
+   Uploader
+================================ */
+.uploader {
+  background: var(--color-surface);
+  padding: 15px;
+  border-radius: 15px;
+  transition: background 0.2s, box-shadow 0.2s;
+}
+
+.uploader:hover {
+  background: var(--color-bg);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+}
+
+.dropzone {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  cursor: pointer;
+  gap: 8px;
+}
+
+.upload-icon {
+  width: 44px;
+  height: 44px;
+  opacity: 0.85;
+  margin: 0 auto 10px;
+  display: block;
+}
+
+/* ===============================
+   Options Row
+================================ */
+.options {
+  margin-top: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.length-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.length-btn {
+  background: var(--color-border);
+  color: var(--color-bg);
+  padding: 7px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.95rem;
+  transition: background 0.18s, transform 0.15s;
+}
+
+.length-btn:hover {
+  background: var(--color-accent);
+  transform: translateY(-2px);
+}
+
+.length-btn.active {
+  background: var(--color-accent);
+  color: var(--color-bg);
+}
+
+/* ===============================
+   Primary Button
+================================ */
+button.primary {
+  --color: var(--color-accent);
+  font-family: inherit;
+  display: inline-block;
+  padding: 10px 18px;
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;
+  border: 2px solid var(--color);
+  transition: color 0.5s, background 0.3s;
+  z-index: 1;
+  font-size: 1rem;
+  border-radius: 8px;
+  font-weight: 600;
+  color: var(--color);
+  background: rgb(255, 250, 210);
+  letter-spacing: 0.5px;
+}
+
+button.primary:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  background: var(--color);
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  top: 100%;
+  left: 100%;
+  transition: all 0.6s ease;
+}
+
+button.primary:hover {
+  color: #fff;
+}
+
+button.primary:hover:before {
+  top: -40px;
+  left: -40px;
+}
+
+button.primary:active:before {
+  background: var(--color-hover);
+  transition: background 0s;
+}
+
+/* ===============================
+   Textarea & Boxes
+================================ */
+textarea {
+  width: 100%;
+  padding: 12px;
+  border-radius: 8px;
+  margin-top: 12px;
+  font-size: 0.95rem;
+  min-height: 110px;
+  resize: vertical;
+  background: var(--color-surface);
+  color: var(--color-accent);
+}
+
+textarea:focus {
+  outline: none;
+  border-color: var(--color-accent);
+}
+
+.box {
+  width: 100%;
+  padding: 14px;
+  border-radius: 8px;
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-accent);
+  font-size: 0.95rem;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+  margin-bottom: 14px;
+  transition: background 0.2s, transform 0.15s;
+}
+
+.box:hover {
+  background: var(--color-bg);
+  transform: translateY(-2px);
+}
+
+/* ===============================
+   Result
+================================ */
+.result {
+  margin-top: 22px;
+}
+
+.status {
+  margin-top: 10px;
+  color: var(--color-border);
+  font-size: 0.92rem;
+}
+
+.or {
+  text-align: center;
+  margin: 16px 0;
+  color: var(--color-border);
+}
+
+/* ===============================
+   Headings
+================================ */
+.heading-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.heading-with-icon {
+  font-size: 1.05rem;
+  color: var(--color-accent);
+  margin: 0;
+}
+
+/* ===============================
+   Icon Buttons & Tooltip
+================================ */
+.icon-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.12s, background 0.12s;
+  position: relative;
+}
+
+.icon-btn:hover {
+  transform: translateY(-2px);
+  background: var(--color-border);
+}
+
+.icon {
+  width: 18px;
+  height: 18px;
+}
+
+/* Tooltip bubble */
+.icon-btn::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #333;
+  color: #fff;
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+}
+
+.icon-btn.show-tooltip::after {
+  opacity: 1;
+}
+
+/* ===============================
+   Summary
+================================ */
+.summary-box {
+  position: relative;
+  margin-top: 16px;
+}
+
+.summary-actions {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  display: flex;
+  gap: 8px;
+  z-index: 50;
+}
+
+.big-box {
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  padding: 18px;
+  background: var(--color-surface);
+  transition: background 0.2s, transform 0.15s;
+}
+
+.big-box:hover {
+  background: var(--color-bg);
+  transform: translateY(-2px);
+}
+
+.big-box h3 {
+  margin: 8px 0;
+  color: var(--color-accent);
+  font-size: 1rem;
+}
+
+/* Extracted text hidden initially */
+#extractedText {
+  display: none;
+}
+
+/* ===============================
+   Responsive Tweaks
+================================ */
+@media (max-width: 768px) {
+  body {
+    padding: 16px;
+  }
+
+  .container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0 12px;
+  }
+
+  textarea,
+  .box,
+  .big-box,
+  .uploader {
+    padding: 10px;
+  }
+
+  .options {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+  }
+
+  button.primary,
+  .length-btn {
+    width: 100%;
+  }
+
+  .header h1 {
+    font-size: 24px;
+  }
+
+  .subtitle {
+    font-size: 0.9rem;
+  }
+
+  .summary-actions {
+    top: 8px;
+    right: 8px;
+  }
+
+  .big-box {
+    padding: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    padding: 12px;
+  }
+
+  .upload-icon {
+    width: 36px;
+    height: 36px;
+  }
+
+  .heading-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+
+  .summary-actions {
+    top: 8px;
+    right: 8px;
+  }
+
+  textarea,
+  .box,
+  .big-box,
+  .uploader {
+    padding: 8px;
+  }
+}
+
+/* ===============================
+   Loading Overlay
+================================ */
+.loading-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(245, 241, 225, 0.85);
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  backdrop-filter: blur(2px);
+  color: var(--color-accent);
+  font-size: 1rem;
+  font-weight: 600;
+  gap: 12px;
+}
+
+/* Bouncing dots spinner */
+.spinner {
+  display: flex;
+  gap: 8px;
+}
+
+.spinner div {
+  width: 12px;
+  height: 12px;
+  background-color: var(--color-accent);
+  border-radius: 50%;
+  animation: bounce 0.6s infinite alternate;
+}
+
+.spinner div:nth-child(2) {
+  animation-delay: 0.2s;
+}
+
+.spinner div:nth-child(3) {
+  animation-delay: 0.4s;
+}
+
+@keyframes bounce {
+  to {
+    transform: translateY(-15px);
+  }
+}
+
+/* Loading text */
+.loading-overlay p {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 500;
+}

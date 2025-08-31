@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QuickGist - Document Summary Assistant</title>
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/styles.css">
+
+  <!-- PDF Library -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</head>
+<body>
+  <div class="container">
+
+    <!-- Header -->
+    <header class="header">
+      <h1>QuickGist - Document Summary Assistant</h1>
+      <p class="subtitle">Turn PDFs & Images into instant Summaries and Insights</p>
+    </header>
+
+    <!-- File Upload -->
+    <section class="uploader">
+      <input id="fileInput" type="file" accept=".pdf,image/*" hidden>
+      <label for="fileInput" id="dropzone" class="dropzone">
+        <img src="assets/upload.svg" alt="Upload Icon" class="upload-icon">
+        <p>Drop files here or <span class="linklike">choose a file</span></p>
+        <small class="muted">Supported formats: PDF, PNG, JPG</small>
+      </label>
+    </section>
+
+    <!-- Options -->
+    <div class="options">
+      <div class="length-buttons">
+        <button type="button" class="length-btn" data-length="short">Short</button>
+        <button type="button" class="length-btn active" data-length="medium">Medium</button>
+        <button type="button" class="length-btn" data-length="long">Long</button>
+      </div>
+      <button id="summarizeBtn" class="primary">Upload & Summarize</button>
+    </div>
+
+    <div class="or">— or paste text —</div>
+
+    <!-- Text Input -->
+    <textarea id="textInput" rows="8" placeholder="Paste text here..."></textarea>
+
+    <div class="options">
+      <button id="summarizeTextBtn" class="primary">Summarize Text</button>
+    </div>
+
+    <!-- Status / Loading -->
+    <div id="status" class="status"></div>
+
+    <div id="loadingOverlay" class="loading-overlay">
+      <div class="spinner">
+        <div></div><div></div><div></div>
+      </div>
+      <p>Generating summary...</p>
+    </div>
+
+    <!-- Results -->
+    <section class="result">
+      <div class="heading-row">
+        <h2>Extracted Text</h2>
+        <button id="toggleExtractedBtn" class="icon-btn" title="Show/Hide Extracted Text">
+          <img src="assets/expand.svg" alt="Toggle Icon" class="icon">
+        </button>
+      </div>
+
+      <pre id="extractedText" class="box"></pre>
+
+      <div class="summary-box">
+
+        <!-- Copy & Download Buttons -->
+        <div class="summary-actions">
+          <button id="copySummaryBtn" class="icon-btn" title="Copy All">
+            <img src="assets/copy-alt.svg" alt="Copy Icon" class="icon">
+          </button>
+          <button id="downloadSummaryBtn" class="icon-btn" title="Download All">
+            <img src="assets/download.svg" alt="Download Icon" class="icon">
+          </button>
+        </div>
+
+        <!-- Output -->
+        <div class="big-box">
+          <h3>Summary</h3>
+          <pre id="summary" class="box"></pre>
+
+          <h3>Key Points</h3>
+          <pre id="keypoints" class="box"></pre>
+
+          <h3>Action Items</h3>
+          <pre id="actionitems" class="box"></pre>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- JS -->
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
